@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/dhaya-github/HybridDrivenFramework">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.AccountRegistrationTestCase_1">
+                <methods>
+                    <include name="verify_account_registration"/>
+                </methods>
+            </class>
+            <class name="testCases.LoginDDT_Testcase">
+                <methods>
+                    <include name="verifyLoginData"/>
+                </methods>
+            </class>
+            <class name="testCases.LoginTestCase_2">
+                <methods>
+                    <include name="verify_login"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

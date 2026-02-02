@@ -1,0 +1,4 @@
+18:33:35.080 [TestNG-tests-2] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+18:33:35.091 [TestNG-tests-2] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+18:33:36.518 [TestNG-tests-2] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+18:33:36.546 [TestNG-tests-2] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 

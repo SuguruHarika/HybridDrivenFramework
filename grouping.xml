@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Master Suite">
+
+    <groups>
+        <run>
+            <include name="Master"/>
+        </run>
+    </groups>
+    
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <listeners>
+        <listener class-name="org.testng.reporters.FailedReporter"/>
+    </listeners>
+
+    <test verbose="2" thread-count="5" preserve-order="true" name="C:/dhaya-github/HybridDrivenFramework">
+
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="chrome"/>
+
+        <classes>
+          <class name="testCases.AccountRegistrationTestCase_1"/>
+         <class name="testCases.LoginTestCase_2"/>
+       <!--  <class name="testCases.LoginDDT_Testcase"/> -->
+        </classes>
+    </test>
+</suite>

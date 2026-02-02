@@ -1,0 +1,49 @@
+05:33:31.831 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+05:33:34.034 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution finished
+05:34:13.751 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+05:34:14.042 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+05:34:14.636 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+05:34:14.643 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+05:34:16.953 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+05:34:17.082 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+05:34:19.962 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+05:34:22.171 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution finished
+18:15:16.862 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+12:37:45.242 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+12:37:45.437 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+12:37:45.990 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+12:37:45.990 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+12:37:48.354 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+12:37:48.412 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+12:37:51.233 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+12:37:53.580 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution finished
+12:40:58.949 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+12:40:59.187 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+12:40:59.777 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+12:40:59.777 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+12:41:02.960 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+12:41:03.023 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+12:41:06.092 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+12:44:17.834 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+12:44:18.308 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+12:44:18.829 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+12:44:18.829 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+12:44:21.070 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+12:44:21.157 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+12:44:24.519 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+13:10:55.161 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+13:10:55.399 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+13:10:55.983 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+13:10:55.983 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+13:10:58.720 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+13:10:58.842 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+13:11:01.661 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+14:14:01.973 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+14:14:02.137 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+14:14:02.547 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+14:14:02.547 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+14:14:04.061 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+14:14:04.099 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+14:14:06.236 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+14:22:00.926 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+14:22:01.109 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option

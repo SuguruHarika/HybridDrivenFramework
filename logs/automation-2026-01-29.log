@@ -1,0 +1,40 @@
+17:44:15.132 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.136 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.146 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:15.161 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.162 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.172 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:15.185 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.186 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.187 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.195 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:15.205 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.206 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.208 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.217 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:15.230 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.231 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.233 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.247 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:15.263 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:44:15.264 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:44:15.264 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:44:15.273 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.microsoft.com/office/2017/10/relationships/person
+17:44:59.017 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+17:45:01.553 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution finished
+05:22:04.460 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution started
+05:22:06.837 [main] INFO  testCases.LoginTestCase_2 - ****LoginTestCase_2 execution finished
+05:23:42.594 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+05:23:42.950 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+05:23:43.527 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+05:23:43.527 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+05:23:45.899 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+05:23:46.010 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
+05:33:12.853 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase started****** 
+05:33:13.119 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on my account option
+05:33:13.637 [main] INFO  testCases.AccountRegistrationTestCase_1 - clicked on register option
+05:33:13.637 [main] INFO  testCases.AccountRegistrationTestCase_1 - -----providing customer details------
+05:33:16.478 [main] INFO  testCases.AccountRegistrationTestCase_1 - validating expected data
+05:33:16.567 [main] INFO  testCases.AccountRegistrationTestCase_1 - ****AccountRegistration testcase execution finished****** 
